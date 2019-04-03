@@ -1,3 +1,5 @@
+This repo forked form kitasuke/PagingMenuController to migrate swift version by TMH TechLab's Ours Team.
+
 ![](https://raw.githubusercontent.com/wiki/kitasuke/PagingMenuController/images/logo.png)
 
 [![CI Status](http://img.shields.io/travis/kitasuke/PagingMenuController.svg?style=flat)](https://travis-ci.org/kitasuke/PagingMenuController)
